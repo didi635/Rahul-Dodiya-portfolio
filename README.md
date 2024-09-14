@@ -1,8 +1,6 @@
 # Rahul-Dodiya-portfolio
 website and graphic designer
 
-
-<!DOCTYPE html>
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
@@ -2089,7 +2087,7 @@ class="fa fa-envelope"></i> infomail@email.com</p>
 				<div class="container">
 						<div class="col-md-12 col-sm-12 col-xs-12 pd-0">
 								<div class="footer-text">
-																				Copyright @ 2022 Graphics Designer All Right Reserved																	</div>
+																				Copyright @ 2024 Rahul Dodiya All Right Reserved																	</div>
 						</div>
 				</div>
 		</div>
