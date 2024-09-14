@@ -611,7 +611,7 @@ div#secondary select option,.select2-container--default .select2-results>.select
 	<li id="menu-item-2140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2140"><a href="https://www.luzukdemo.com/demo/graphics-designer/blog-with-right-sidebar/">Blog With Right Sidebar</a></li>
 </ul>
 </li>
-<li id="menu-item-2150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2150"><a href="https://www.luzukdemo.com/demo/graphics-designer/contact-us/">Contact Us</a></li>
+<li id="menu-item-2150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2150"><a href="https://www.luzukdemo.com/demo/graphics-designer/contact-us/">Contact vadodara</a></li>
 </ul>								</nav>
 							</div>
 						</div>
@@ -1900,9 +1900,9 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 												<div class="blog-single">
 														<div class="blog-date">
 																<div class="col-md-6 pl-0">
-																		<i class="fa fa-calendar"></i>14 Dec , 2022								            		</div>
+																		<i class="fa fa-calendar"></i>16 april , 2024							            		</div>
 								                <div class="col-md-6 pl-0">
-								                		<i class="fa fa-user" aria-hidden="true"></i>luzuk_demo								                </div> 
+								                		<i class="fa fa-user" aria-hidden="true"></i>wordpress_demo								                </div> 
 								            </div>
 								            <div class="clearfix"></div>
 														<a href="https://www.luzukdemo.com/demo/graphics-designer/2022/12/14/how-to-be-appreciated-for-your-hard-work/">
