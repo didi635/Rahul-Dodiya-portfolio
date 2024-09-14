@@ -896,7 +896,7 @@ div#secondary select option,.select2-container--default .select2-results>.select
 									</div>
 								</div>
 								<div class="col-md-10 col-sm-11">
-									<div class="about-area-data">
+									<div cla="about-area-data">
 										<h4 class="inner-area-title">Graphics Designer</h4>
 									</div>
 								</div>
@@ -2068,10 +2068,10 @@ There are many variations of passages of Lorem  available, but the majority have
 										<div class="s-footer col-lg-3 col-md-3 col-sm-6 col-xs-12 single-footer-4" >
 												<div class="single-footer wow zoomIn" data-wow-duration="2.5s" >
 													<aside id="text-5" class="widget widget_text"><h4 class="widget-title">Stay Connected</h4>			<div class="textwidget"><p><i class="fa fa-map-marker"></i> 110 Lorence Road,<br /> Los Angeles County,<br />
-CA, USA</p>
-<p><i class="fa fa-phone"></i> + 1(902)-720-7016</p>
+rc dutt road alkapuri vadodara</p>
+<p><i class="fa fa-phone"></i> 8200038066</p>
 <p><i
-class="fa fa-envelope"></i> infomail@email.com</p>
+class="fa fa-envelope"></i> dodiyarahul562@gmail.com</p>
 </div>
 		</aside>	
 												</div>
